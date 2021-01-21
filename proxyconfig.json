@@ -1,0 +1,10 @@
+[
+  {
+    "context": [
+      "/ylzxtmsgateway",
+      "/tmsgateway",
+      "/fileserver"
+    ],
+    "target": "http://172.16.111.11:8087"
+  }
+]
